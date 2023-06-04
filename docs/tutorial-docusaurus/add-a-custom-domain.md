@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 9
 ---
 
-# Set a Custom Domain
+# Add a Custom Domain
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
