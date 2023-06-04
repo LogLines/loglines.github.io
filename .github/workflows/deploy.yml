@@ -35,7 +35,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Copy files
-        run: cp -rf ./loglines/ ./
+        run: cp -rf ./loglines/ /
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
