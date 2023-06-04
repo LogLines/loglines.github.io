@@ -4,12 +4,13 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const organizationName = "LogLines";
+const pageName = "LogLines DS";
 const projectName = "loglines.github.io";
 // const baseUrl = `/${projectName}/`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: `${pageName}`,
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -66,9 +67,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: `${pageName}`,
         logo: {
-          alt: 'My Site Logo',
+          alt: `${pageName} logo`,
           src: 'img/logo.svg',
         },
         items: [
