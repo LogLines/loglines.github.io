@@ -20,12 +20,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: "We're just getting started!",
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our team is composed of scientists and engineers that believe that by sharing
+        part of our knowledge not only shows the extent of our expertise, but contribute
+        to the formation of better professionals. Be sure to check our `Tutorials` section.
       </>
     ),
   },
