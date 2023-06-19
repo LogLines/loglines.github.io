@@ -11,7 +11,7 @@ const projectName = "loglines.github.io";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: `${pageName}`,
-  tagline: 'Dinosaurs are cool',
+  tagline: "What's your story?",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
