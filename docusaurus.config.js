@@ -77,6 +77,11 @@ const config = {
       async: true,
       crossorigin: "anonymous",
     },
+    {
+      src: "/jss/g.js",
+      async: true,
+      crossorigin: "anonymous",
+    },
   ],
 
   themeConfig:
