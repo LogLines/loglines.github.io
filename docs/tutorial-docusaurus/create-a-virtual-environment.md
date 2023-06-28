@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Create a Virtual Environment
 
+```
+https://pypi.org/project/nodeenv/
+sudo pip install nodeenv
+
+nodeenv -p
+
+
+```
+
 Documents are **groups of pages** connected through:
 
 - a **sidebar**
