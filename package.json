@@ -18,7 +18,7 @@
     "@docusaurus/core": "^3.1.1",
     "@docusaurus/plugin-google-gtag": "^3.1.1",
     "@docusaurus/plugin-sitemap": "^3.1.1",
-    "@docusaurus/preset-classic": "3.1.1",
+    "@docusaurus/preset-classic": "^3.1.1",
     "@mdx-js/react": "^3.0.1",
     "braces": "2.3.1",
     "caniuse-lite": "^1.0.30001597",
