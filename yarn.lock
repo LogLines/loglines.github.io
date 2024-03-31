@@ -8333,10 +8333,10 @@ immer@8.0.1:
   resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
   integrity sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==
 
-immer@9.0.8:
-  version "9.0.8"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.8.tgz#d0f28b29745c42140f8598493c38a68da9936b69"
-  integrity sha512-rrMYWRLka5EU9EA8mKweXX37vumW7pe3oIfY4TafuV6t8EfxpFU9tNP6gsc3cxKC+mS/Zn5vguyM+bsxIynbJQ==
+immer@9.0.9:
+  version "9.0.9"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.9.tgz#677de0fe95307c7792d48ba5edb65f344d84dacd"
+  integrity sha512-LLIzVsphTk8pMepJ48NSm7GTYJdvtasQKNLzLkz7pqXUwoMBWPYn3Xmi0dc59l9Q3bIxUKK5rzM00+b/uuPt3Q==
 
 immer@^9.0.7:
   version "9.0.21"
