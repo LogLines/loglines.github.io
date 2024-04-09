@@ -46,7 +46,8 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.2.1",
     "@tsconfig/docusaurus": "^2.0.3",
-    "typescript": "^5.4.4"
+    "typescript": "^5.4.4",
+    "yarn-upgrade-all": "^0.7.2"
   },
   "browserslist": {
     "production": [
