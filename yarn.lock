@@ -10981,10 +10981,10 @@ minimatch@3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@^4.2.2:
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-4.2.2.tgz#2d2c05fd94ee370ed49275dcbb9a3d050c342795"
-  integrity sha512-irqDyJjDrUjbx9QWe5giqW3tltdpUk263Qiw4BVMLv+uzQR0/udYN5h08kI14npUPRXIpbSWXFC9p2Z7K9ZlXw==
+minimatch@^4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-4.2.3.tgz#b4dcece1d674dee104bb0fb833ebb85a78cbbca6"
+  integrity sha512-lIUdtK5hdofgCTu3aT0sOaHsYR37viUuIc0rwnnDXImbwFRcumyLMeZaM0t0I/fgxS6s6JMfu0rLD1Wz9pv1ng==
   dependencies:
     brace-expansion "^1.1.7"
 
